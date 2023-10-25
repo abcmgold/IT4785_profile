@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CreateProfile</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Birthday">Birthday</string>
+    <string name="Select">Select</string>
+    <string name="Address">Address</string>
+    <string name="Email">Email</string>
+    <string name="Note">I agree to Terms of Use</string>
+    <string name="Register">Register</string>
+</resources>
